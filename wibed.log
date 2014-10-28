@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.4.7)  11 MAY 2014 11:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.9.5)  7 OCT 2014 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **wibed.tex
 (./wibed.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 79 languages loaded.
 (/usr/share/texmf-dist/tex/latex/beamer/beamer.cls
 (/usr/share/texmf-dist/tex/latex/beamer/beamerbasercs.sty
 Package: beamerbasercs 2013/12/25 (rcs-revision 31cc758a62ae)
@@ -77,7 +77,7 @@ Package ifpdf Info: pdfTeX in PDF mode is detected.
 Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
 
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
 \beamer@paperwidth=\skip42
@@ -111,7 +111,7 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
@@ -634,7 +634,7 @@ LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2004/08/06 v2.20
+Package: amsthm 2009/07/02 v2.20.1
 \thm@style=\toks37
 \thm@bodyfont=\toks38
 \thm@headfont=\toks39
@@ -725,28 +725,25 @@ LaTeX Warning: Label `fig:wmn' multiply defined.
 LaTeX Warning: Label `fig:wmn' multiply defined.
 
 
-LaTeX Warning: Label `fig:wmn' multiply defined.
-
-
 LaTeX Warning: Label `fig:funct' multiply defined.
 
 )
 \openout1 = `wibed.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 189.
-LaTeX Font Info:    ... okay on input line 189.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -812,7 +809,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring OFF on input line 189.
+Package hyperref Info: Link coloring OFF on input line 184.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -822,56 +819,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count159
 )
-LaTeX Info: Redefining \ref on input line 189.
-LaTeX Info: Redefining \pageref on input line 189.
-LaTeX Info: Redefining \nameref on input line 189.
+LaTeX Info: Redefining \ref on input line 184.
+LaTeX Info: Redefining \pageref on input line 184.
+LaTeX Info: Redefining \nameref on input line 184.
  (./wibed.out)
 (./wibed.out)
 \@outlinefile=\write5
 \openout5 = `wibed.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 189.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 184.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 189.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 184.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 189.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 189.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 189.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 189.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 189.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 189.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 189.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 189.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 189.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 189.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 189.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 189.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 189.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 184.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 189.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 184.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 189.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 189.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 189.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 189.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 189.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 189.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 184.
 
 (/usr/share/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -897,47 +894,37 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 189.
+LaTeX Info: Redefining \includegraphics on input line 184.
  (./wibed.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 196.
+(Font)              size <5> substituted on input line 190.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 196.
-
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 196
-.
-LaTeX Font Info:    No file OMScmss.fd. on input line 196.
-
-LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 196.
+(Font)              size <5> substituted on input line 190.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <./pic/wibed-logo.png>]
 (./wibed.toc) [2
 
-] <pic/Wiibed.png, id=178, 304.13625pt x 136.51pt>
-File: pic/Wiibed.png Graphic file (type png)
+]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 207
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 207.
 
-<use pic/Wiibed.png>
-Package pdftex.def Info: pic/Wiibed.png used on input line 214.
-(pdftex.def)             Requested size: 138.2795pt x 62.06631pt.
- [3
-
- <./pic/Wiibed.png>]
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 235.
+(Font)              for symbol `textbullet' on input line 207.
 
-<pic/wibed-logo.png, id=222, 168.63pt x 93.148pt>
+[3
+
+] <pic/wibed-logo.png, id=230, 168.63pt x 93.148pt>
 File: pic/wibed-logo.png Graphic file (type png)
  <use pic/wibed-logo.png>
-Package pdftex.def Info: pic/wibed-logo.png used on input line 235.
+Package pdftex.def Info: pic/wibed-logo.png used on input line 221.
 (pdftex.def)             Requested size: 107.55333pt x 59.41124pt.
 
 [4
@@ -945,217 +932,149 @@ Package pdftex.def Info: pic/wibed-logo.png used on input line 235.
  <./pic/wibed-logo.png>]
 File: pic/wibed-logo.png Graphic file (type png)
  <use pic/wibed-logo.png>
-Package pdftex.def Info: pic/wibed-logo.png used on input line 235.
+Package pdftex.def Info: pic/wibed-logo.png used on input line 221.
 (pdftex.def)             Requested size: 107.55333pt x 59.41124pt.
  [5
 
-]
-File: pic/wibed-logo.png Graphic file (type png)
+] [6
 
-<use pic/wibed-logo.png>
-Package pdftex.def Info: pic/wibed-logo.png used on input line 235.
-(pdftex.def)             Requested size: 107.55333pt x 59.41124pt.
- [6
+] [7
 
-]
-File: pic/wibed-logo.png Graphic file (type png)
- <use pic/wibed-logo.png>
-Package pdftex.def Info: pic/wibed-logo.png used on input line 235.
-(pdftex.def)             Requested size: 107.55333pt x 59.41124pt.
- [7
+] (./wibed.toc)
+[8
 
-]
-File: pic/wibed-logo.png Graphic file (type png)
-
-<use pic/wibed-logo.png>
-Package pdftex.def Info: pic/wibed-logo.png used on input line 235.
-(pdftex.def)             Requested size: 107.55333pt x 59.41124pt.
- [8
-
-] [9
-
-] [10
-
-] (./wibed.toc) [11
-
-]
-<pic/wibed_arch.png, id=567, 536.43712pt x 640.74432pt>
+] <pic/wibed_arch.png, id=449, 536.43712pt x 640.74432pt>
 File: pic/wibed_arch.png Graphic file (type png)
 
 <use pic/wibed_arch.png>
-Package pdftex.def Info: pic/wibed_arch.png used on input line 275.
+Package pdftex.def Info: pic/wibed_arch.png used on input line 256.
 (pdftex.def)             Requested size: 138.2795pt x 165.16216pt.
 
-Overfull \vbox (13.99641pt too high) detected at line 275
+Overfull \vbox (13.99641pt too high) detected at line 256
+ []
+
+[9
+
+ <./pic/wibed_arch.png>] [10
+
+]
+<pic/nodehw.png, id=534, 868.6854pt x 410.4936pt>
+File: pic/nodehw.png Graphic file (type png)
+ <use pic/nodehw.png>
+Package pdftex.def Info: pic/nodehw.png used on input line 289.
+(pdftex.def)             Requested size: 184.3758pt x 87.12695pt.
+
+Overfull \vbox (11.69873pt too high) detected at line 289
+ []
+
+
+Overfull \hbox (2.07506pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[11
+
+ <./pic/nodehw.png>] <pic/firmfs2.png, id=578, 745.05154pt x 303.98103pt>
+File: pic/firmfs2.png Graphic file (type png)
+
+<use pic/firmfs2.png>
+Package pdftex.def Info: pic/firmfs2.png used on input line 311.
+(pdftex.def)             Requested size: 153.64493pt x 62.68294pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:wmn}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.311 \end{frame}
+                 
+LaTeX Font Info:    Try loading font information for U+msa on input line 311.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 311.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<pic/firmfs3.png, id=579, 738.34608pt x 321.86227pt>
+File: pic/firmfs3.png Graphic file (type png)
+ <use pic/firmfs3.png>
+Package pdftex.def Info: pic/firmfs3.png used on input line 311.
+(pdftex.def)             Requested size: 153.64493pt x 66.97426pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig:wmn}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.311 \end{frame}
+                 
+Overfull \hbox (2.07506pt too wide) has occurred while \output is active
+ [][][][]  
  []
 
 [12
 
- <./pic/wibed_arch.png>] [13
-
-]
-<pic/functdia.png, id=653, 2005.4925pt x 999.735pt>
+ <./pic/firmfs2.png> <./pic/firmfs3.png>]
+<pic/functdia.png, id=622, 2005.4925pt x 999.735pt>
 File: pic/functdia.png Graphic file (type png)
  <use pic/functdia.png>
-Package pdftex.def Info: pic/functdia.png used on input line 309.
+Package pdftex.def Info: pic/functdia.png used on input line 328.
 (pdftex.def)             Requested size: 184.3758pt x 91.9096pt.
-
-Overfull \vbox (15.87306pt too high) detected at line 309
+pdfTeX warning (ext4): destination with the same identifier (name{fig:funct}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.328 \end{frame}
+                 
+Overfull \vbox (15.87306pt too high) detected at line 328
  []
 
 
+Overfull \hbox (2.07506pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[13
+
+ <./pic/functdia.png>]
 Overfull \hbox (2.07506pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [14
 
- <./pic/functdia.png>] <pic/firmfs1.png, id=698, 803.16557pt x 356.87968pt>
-File: pic/firmfs1.png Graphic file (type png)
-
-<use pic/firmfs1.png>
-Package pdftex.def Info: pic/firmfs1.png used on input line 321.
-(pdftex.def)             Requested size: 184.3758pt x 81.92267pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:wmn}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.321 \end{frame}
-                 
+] (./wibed.toc)
 Overfull \hbox (2.07506pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [15
 
- <./pic/firmfs1.png>] <pic/firmfs2.png, id=740, 745.05154pt x 303.98103pt>
-File: pic/firmfs2.png Graphic file (type png)
-
-<use pic/firmfs2.png>
-Package pdftex.def Info: pic/firmfs2.png used on input line 345.
-(pdftex.def)             Requested size: 153.64493pt x 62.68294pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:wmn}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.345 \end{frame}
-                 
-LaTeX Font Info:    Try loading font information for U+msa on input line 345.
- (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 345.
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<pic/firmfs3.png, id=741, 738.34608pt x 321.86227pt>
-File: pic/firmfs3.png Graphic file (type png)
- <use pic/firmfs3.png>
-Package pdftex.def Info: pic/firmfs3.png used on input line 345.
-(pdftex.def)             Requested size: 153.64493pt x 66.97426pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:wmn}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.345 \end{frame}
-                 
+]
 Overfull \hbox (2.07506pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [16
 
- <./pic/firmfs2.png> <./pic/firmfs3.png>]
-<pic/nodehw.png, id=783, 868.6854pt x 410.4936pt>
-File: pic/nodehw.png Graphic file (type png)
- <use pic/nodehw.png>
-Package pdftex.def Info: pic/nodehw.png used on input line 363.
-(pdftex.def)             Requested size: 184.3758pt x 87.12695pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:funct}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.363 \end{frame}
-                 
-Overfull \vbox (11.69873pt too high) detected at line 363
- []
-
-
+] (./wibed.toc)
 Overfull \hbox (2.07506pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [17
 
- <./pic/nodehw.png>] <pic/config.png, id=827, 1706.375pt x 798.985pt>
-File: pic/config.png Graphic file (type png)
-
-<use pic/config.png>
-Package pdftex.def Info: pic/config.png used on input line 383.
-(pdftex.def)             Requested size: 184.3758pt x 86.3281pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:funct}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.383 \end{frame}
-                 
-Overfull \vbox (9.53113pt too high) detected at line 383
- []
-
-
+]
 Overfull \hbox (2.07506pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [18
 
- <./pic/config.png>]
+]
 Overfull \hbox (2.07506pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [19
-
-]
-Overfull \hbox (2.07506pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[20
-
-] (./wibed.toc)
-Overfull \hbox (2.07506pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[21
-
-] <pic/nerd.png, id=1008, 531.9875pt x 403.5075pt>
-File: pic/nerd.png Graphic file (type png)
- <use pic/nerd.png>
-Package pdftex.def Info: pic/nerd.png used on input line 420.
-(pdftex.def)             Requested size: 184.3758pt x 139.8444pt.
-
-Overfull \hbox (2.07506pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[22
-
- <./pic/nerd.png>]
-Overfull \hbox (2.07506pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[23
-
-]
-Overfull \hbox (2.07506pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[24
 
 ]
 \tf@nav=\write6
@@ -1167,21 +1086,15 @@ Overfull \hbox (2.07506pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `wibed.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1345.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1345.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1284.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1284.
  (./wibed.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1345.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1345.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1284.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1284.
 
+Package rerunfilecheck Info: File `wibed.out' has not changed.
+(rerunfilecheck)             Checksum: 5B50BC2CE9FC318DB8E6B79057FA8FE3;550.
 
-
-Package rerunfilecheck Warning: File `wibed.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `wibed.out':
-(rerunfilecheck)             Before: 195AFA7ACED530BBE4C42CB0698B515C;446
-(rerunfilecheck)             After:  2CDA8385B36F4F9A52284CEEBEAC697E;446.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -1192,30 +1105,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1345.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1284.
  ) 
 Here is how much of TeX's memory you used:
- 16896 strings out of 493308
- 321844 string characters out of 6143617
- 398570 words of memory out of 5000000
- 19868 multiletter control sequences out of 15000+600000
+ 16877 strings out of 493108
+ 321665 string characters out of 6140726
+ 398463 words of memory out of 5000000
+ 19866 multiletter control sequences out of 15000+600000
  11319 words of font info for 42 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  48i,19n,52p,385b,729s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Outline0.2.3.18} has been referenced but does not
- exist, replaced by a fixed one
-
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mssi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on wibed.pdf (24 pages, 1063973 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on wibed.pdf (19 pages, 380820 bytes).
 PDF statistics:
- 1178 PDF objects out of 1200 (max. 8388607)
- 1092 compressed objects within 11 object streams
- 61 named destinations out of 1000 (max. 500000)
- 168 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 975 PDF objects out of 1000 (max. 8388607)
+ 904 compressed objects within 10 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
 
